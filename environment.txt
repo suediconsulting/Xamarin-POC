@@ -1,0 +1,8 @@
+******************
+* Ch - deletable *
+******************
+
+VisualCode
+
+Git Desktop - itt az első push/pull elég nehezen ment, kénytelen voltam cmd-ben ezt futtatni:
+git pull --allow-unrelated-histories
